@@ -1,0 +1,1 @@
+# Selenium - Bot de Postagem no Facebook
